@@ -24,11 +24,11 @@ db:
   type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
-  host: localhost
+  host: 45-91-168-141.cloud-xip.com
   port: 5432
-  user: wikijs
-  pass: wikijsrocks
-  db: wiki
+  user: postgres
+  pass: postgres
+  db: postgres
   ssl: false
 
   # Optional - PostgreSQL / MySQL / MariaDB only:
